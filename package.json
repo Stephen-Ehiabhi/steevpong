@@ -1,0 +1,14 @@
+{
+  "name": "multiplayer-pingpong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.5.2"
+  }
+}
